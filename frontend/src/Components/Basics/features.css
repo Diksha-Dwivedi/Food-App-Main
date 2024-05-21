@@ -1,0 +1,52 @@
+.Restaurents{
+
+    height: 80%;
+    align-items: flex-end;
+    font-size: 38px;
+    color: #6e6e6e;
+    text-transform: uppercase;
+    text-align: center;
+    position: relative;
+     
+    top: 70px;
+}
+
+
+.container-fluid{
+
+    position: relative;
+    top: 150px;
+    bottom:400px;
+}
+
+
+.card-title{
+    color: #6e6e6e;
+
+}
+
+.card:hover {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.card{
+
+    box-shadow: 0 10px 22px 10px rgb(27 38 49/10%);
+    transition: .3s;
+    border-radius: 10px;
+    height:300px;
+    display:flex;
+    
+    align-items: center;
+    
+}
+
+.card-img{
+
+
+    height:4rem;
+    width:4rem;
+}
+
+ 

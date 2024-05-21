@@ -1,0 +1,25 @@
+.plans-container {
+    padding: 20px;
+  }
+  
+  .plan-card {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 20px;
+    margin: 20px 0;
+  }
+  
+  .plan-card h3 {
+    margin-top: 0;
+  }
+  
+  .btn {
+    margin-top: 10px;
+  }
+
+  .starpic{
+
+    width:30px;
+    height:30px;
+  }
+  

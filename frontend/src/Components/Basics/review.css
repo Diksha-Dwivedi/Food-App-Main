@@ -1,0 +1,22 @@
+.reviewfood{
+
+    position:relative;
+    top:100px;
+}
+
+
+.back{
+
+
+    background-image: url('./image/food1.jpeg');
+    /* background-repeat: no-repeat; */
+    /* background-size: 100% 100%; */
+    /* background-color: rgb(249, 242, 242); */
+}
+
+.cardpic{
+
+    width:25px;
+    height:25px;
+}
+ 

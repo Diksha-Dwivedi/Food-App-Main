@@ -1,0 +1,68 @@
+.follow{
+
+    height: 80%;
+    align-items: flex-end;
+    font-size: 38px;
+    color: #6e6e6e;
+    text-transform: uppercase;
+    text-align: center;
+   
+     
+     
+}
+
+.con{
+
+    position: relative;
+    top:500px;
+  
+     
+}
+
+.backimg{
+
+
+    background-image:url('image/pexels-photo-3323687.jpeg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+     height:400px;
+     width:300px;
+     border-radius:20% ;
+     
+    
+    
+}
+
+.divi{
+
+    display: flex;
+    justify-content: center;
+    /* position:relative;
+    top:500px; */
+    
+}
+
+
+li{
+
+
+    font-size: large;
+    font-weight:400;
+    /* //text-align: center; */
+    word-spacing: 6px;
+    /* letter-spacing: 2px; */
+
+    /* display:flex;
+    align-items: center;
+      */
+
+}
+
+.stepstop{
+
+    position:relative;
+    top:120px;
+    background-color: rgb(249, 242, 242);
+}
+
+ 

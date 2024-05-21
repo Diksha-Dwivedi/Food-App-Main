@@ -1,0 +1,22 @@
+.navbar{
+
+    color:#fff;
+    /* background-color:pink ; */
+    background-color: rgb(47, 43, 43);
+    /* position:fixed; */
+}
+
+.word{
+
+    font-weight:700;
+    font-size: 20px;
+    /* color:rgb(49, 42, 42) */
+    color:aliceblue;
+     
+}
+
+
+.navbar-toggler-icon{
+
+    background-color: #fff;
+}
